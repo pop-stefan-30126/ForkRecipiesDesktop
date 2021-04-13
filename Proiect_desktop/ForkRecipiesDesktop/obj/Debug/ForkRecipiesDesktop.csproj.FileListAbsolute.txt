@@ -1,0 +1,11 @@
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\obj\Debug\ForkRecipiesDesktop.csprojAssemblyReference.cache
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\obj\Debug\ForkRecipiesDesktop.Form1.resources
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\obj\Debug\ForkRecipiesDesktop.csproj.GenerateResource.cache
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\bin\Debug\ForkRecipiesDesktop.exe.config
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\bin\Debug\ForkRecipiesDesktop.exe
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\bin\Debug\ForkRecipiesDesktop.pdb
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\obj\Debug\ForkRecipiesDesktop.Properties.Resources.resources
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\obj\Debug\ForkRecipiesDesktop.csproj.CoreCompileInputs.cache
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\obj\Debug\ForkRecipiesDesktop.exe
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\obj\Debug\ForkRecipiesDesktop.pdb
+C:\Users\pop_s\OneDrive\Desktop\An 3 facultate\Sem2\II\Proiect_desktop\ForkRecipiesDesktop\obj\Debug\ForkRecipiesDesktop.Form2.resources
